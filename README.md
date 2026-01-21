@@ -3,7 +3,7 @@
 **Informatics Engineering Student at UNTL**
 
 📍 Dili, Timor-Leste  
-📧 acacioeleizo933@gmail.com
+📧 acacioelezito933@gmail.com
 
 ---
 
