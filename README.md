@@ -1,5 +1,5 @@
 
-# Acacio Eleizo Paulo
+# Acacio Elezito Paulo
 **Informatics Engineering Student at UNTL**
 
 📍 Dili, Timor-Leste  
