@@ -23,8 +23,6 @@ I am currently pursuing my studies in Informatics Engineering at the National Un
 - IT Support
 - Linux (Debian)
 - Hyprland Configuration
-- Git & GitHub
-
 
 
 ## 🌐 Socials:
