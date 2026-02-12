@@ -39,6 +39,9 @@ I am currently pursuing my studies in Informatics Engineering at the National Un
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashio28&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashio28&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+</p>
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Akashio28&icon=0&color=6" />
