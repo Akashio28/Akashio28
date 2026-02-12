@@ -7,6 +7,43 @@
 
 ---
 
+# Hi there 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=I+am+a+Software+Developer;Full-Stack+Developer;AI+%26+Computer+Vision+Enthusiast;Open+Source+Lover)](https://git.io/typing-svg)
+
+---
+
+## 📊 Grafik Kontribusi
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GANTI-USERNAME-ANDA&theme=react-dark&hide_border=true&area=true&custom_title=Grafik%20Kontribusi)
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GANTI-USERNAME-ANDA&show_icons=true&theme=tokyonight&hide_border=true)
+
+## 🚀 Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+
+---
+
+## 📌 Repository Populer
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GANTI-USERNAME-ANDA&repo=nama-repo-1&theme=tokyonight)](https://github.com/GANTI-USERNAME-ANDA/nama-repo-1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GANTI-USERNAME-ANDA&repo=nama-repo-2&theme=tokyonight)](https://github.com/GANTI-USERNAME-ANDA/nama-repo-2)
+
+---
+
+### 📫 Hubungi Saya:
+- Email: email@anda.com
+- LinkedIn: [username-linkedin](https://linkedin.com/in/username)
+
+---
+
+*Dibuat dengan ❤️ oleh [Nama Anda]*
+
 ## About Me
 
 I am currently pursuing my studies in Informatics Engineering at the National University of Timor-Leste (UNTL). I have basic knowledge and interest in networking and artificial intelligence (AI). During my studies, I have learned and practiced network configuration, maintenance, and troubleshooting in networking systems.
