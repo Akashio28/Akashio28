@@ -9,23 +9,7 @@
 
 # Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=I+am+a+Software+Developer;Full-Stack+Developer;AI+%26+Computer+Vision+Enthusiast;Open+Source+Lover)](https://git.io/typing-svg)
-
----
-
-## 📊 Grafik Kontribusi
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GANTI-USERNAME-ANDA&theme=react-dark&hide_border=true&area=true&custom_title=Grafik%20Kontribusi)
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GANTI-USERNAME-ANDA&show_icons=true&theme=tokyonight&hide_border=true)
-
-## 🚀 Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=I'm+Acacio+Elezito ;Open+Source+Lover)](https://git.io/typing-svg)
 
 ---
 
@@ -36,13 +20,7 @@
 
 ---
 
-### 📫 Hubungi Saya:
-- Email: email@anda.com
-- LinkedIn: [username-linkedin](https://linkedin.com/in/username)
 
----
-
-*Dibuat dengan ❤️ oleh [Nama Anda]*
 
 ## About Me
 
@@ -67,6 +45,8 @@ I am currently pursuing my studies in Informatics Engineering at the National Un
 
 # 💻 Tech Stack:
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username= Akashio28&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user= Akashio28&theme=dark&hide_border=false)<br/>
