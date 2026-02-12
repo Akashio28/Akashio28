@@ -1,9 +1,5 @@
-# Hi there 👋
+https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Acacio+Elezito;I'm+a+Software+Developer;Full-Stack+Developer;AI+%2526+Computer+Vision+Enthusiast;Open+Source+Lover
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=I+am+a+Software+Developer;Full-Stack+Developer;AI+%26+Computer+Vision+Enthusiast;Open+Source+Lover)](https://git.io/typing-svg)
-
-aku mau kamu buat Hi im acacio Elezito  im software Developer
-# Hi there! I'm Acacio Elezito 👨‍🎤
 **Informatics Engineering Student at UNTL**
 
 📍 Dili, Timor-Leste  
