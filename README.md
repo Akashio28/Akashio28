@@ -26,7 +26,7 @@ I am currently pursuing my studies in Informatics Engineering at the National Un
   <img src="https://gh-heat.anishroy.com/api/Akashio28/svg?theme=purple&darkMode=true" />
   
   <!-- Teks footer dengan warna tema dracula -->
-  <br><br>
+
   <b><span style="color:#FF79C6">Dibuat dengan ❤️ oleh Acacio Elezito</span></b>
   <br>
   <i><span style="color:#BD93F9">ositori populer</span></i>
