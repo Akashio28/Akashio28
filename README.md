@@ -18,6 +18,24 @@ I am currently pursuing my studies in Informatics Engineering at the National Un
 
 ## 📈 Contribution Graph
 
+<p align="center">
+  <!-- GitHub Activity Graph dengan username Akashio28 dan tema dracula -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akashio28&theme=dracula" />
+</p>
+
+<p align="center">
+  <!-- Heatmap kontribusi dengan tema purple dan mode gelap -->
+  <img src="https://gh-heat.anishroy.com/api/Akashio28/svg?theme=purple&darkMode=true" />
+</p>
+
+<p align="center">
+  <b>Dibuat dengan ❤️ oleh Acacio Elezito</b>
+  <br>
+  <i>ositori populer</i>
+</p>
+
+## 📈 Contribution Graph
+
 <div align="center">
   <!-- GitHub Activity Graph - Versi Akashio28 -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akashio28&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
