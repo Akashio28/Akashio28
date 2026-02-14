@@ -53,14 +53,10 @@ I am currently pursuing my studies in Informatics Engineering at the National Un
   <!-- GitHub Activity Graph - Versi Akashio28 -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akashio28&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
   
-  <!-- Statistik Tambahan -->
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Akashio28&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashio28&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150"/>
 </div>
   
   <div align="center">
-  ### 🌐 Connect with me
+  🌐 Connect with me
   
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/EL%20Sagarata)
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/elezitoac)
