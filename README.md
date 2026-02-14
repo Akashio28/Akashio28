@@ -48,5 +48,35 @@ I am currently pursuing my studies in Informatics Engineering at the National Un
 </p>
 
 
+## 📊 Contribution Graph
+
+
+![Contribution Bar Chart](contribution_bar_chart.png)
+
+| Days | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+|------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| **Contributions** | 12 | 8 | 15 | 25 | 30 | 18 | 22 | 10 | 5 | 15 | 20 | 28 | 32 | 25 | 18 | 12 | 8 | 15 | 22 | 18 | 25 | 30 | 28 | 20 | 15 | 10 | 8 | 12 | 18 | 25 | 20 |
+
+### Legend:
+- 🔴 Monday
+- 🟢 Wednesday  
+- 🔵 Friday
+- ⚪ Other days
+
+### Monthly Overview:
+| Feb | Mar | Apr | May | Jun | Jul | Aug | Sep | Oct | Nov | Dec | Jan | Feb |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 🟩 | 🟩 | 🟩 | 🟩 | 🟩 | 🟩 | 🟩 | 🟩 | 🟩 | 🟩 | 🟩 | 🟩 | 🟩 |
+
+---
+
+<div align="center">
+  <b>Less</b> <span style="color: #ebedf0">■■</span><span style="color: #9be9a8">■■</span><span style="color: #40c463">■■</span><span style="color: #30a14e">■■</span><span style="color: #216e39">■■</span> <b>More</b>
+  
+  ---
+  
+  *ositori populer*
+</div>
+
 
 
