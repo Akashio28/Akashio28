@@ -48,11 +48,11 @@ I am currently pursuing my studies in Informatics Engineering at the National Un
 </p>
 
 
-## 📈 Contribution Graph
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajitonelsonn&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Akashio28&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashio28&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150"/>
 </div>
-
 
 
