@@ -17,22 +17,22 @@ I am currently pursuing my studies in Informatics Engineering at the National Un
 - Hyprland Configuration
 
 ## 📈 Contribution Graph
+## 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
   <!-- GitHub Activity Graph dengan username Akashio28 dan tema dracula -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akashio28&theme=dracula" />
-</p>
-
-<p align="center">
+  
   <!-- Heatmap kontribusi dengan tema purple dan mode gelap -->
+  <br><br>
   <img src="https://gh-heat.anishroy.com/api/Akashio28/svg?theme=purple&darkMode=true" />
-</p>
-
-<p align="center">
-  <b>Dibuat dengan ❤️ oleh Acacio Elezito</b>
+  
+  <!-- Teks footer dengan warna tema dracula -->
+  <br><br>
+  <b><span style="color:#FF79C6">Dibuat dengan ❤️ oleh Acacio Elezito</span></b>
   <br>
-  <i>ositori populer</i>
-</p>
+  <i><span style="color:#BD93F9">ositori populer</span></i>
+</div>
 
 ## 📈 Contribution Graph
 
