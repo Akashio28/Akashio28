@@ -1,6 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00f5ff&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Acacio+Elezito;I+am+a+Software+Developer;Network+Enthusiast!;Full-Stack+Developer;Open+Source+Lover;Network+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00f5ff&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Acacio+Elezito;I+am+a+Software+Developer;Network+Enthusiast;Full-Stack+Developer;Open+Source+Lover;Network+Enthusiast)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00f5ff&center=true&vCenter=true&width=700&lines=Network+Enthusiast)](https://git.io/typing-svg)
 ## About Me
 
 I am currently pursuing my studies in Informatics Engineering at the National University of Timor-Leste (UNTL). I have basic knowledge and interest in networking and artificial intelligence (AI). During my studies, I have learned and practiced network configuration, maintenance, and troubleshooting in networking systems.
