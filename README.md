@@ -47,8 +47,54 @@ I am currently pursuing my studies in Informatics Engineering at the National Un
   <img src="https://visitcount.itsvg.in/api?id=Akashio28&icon=0&color=6" />
 </p>
 
+## 📈 Contribution Graph
 
-## 📊 GitHub Stats
+<div align="center">
+  <!-- GitHub Activity Graph - Versi Akashio28 -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akashio28&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
+  
+  <!-- Statistik Tambahan -->
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Akashio28&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashio28&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150"/>
+</div>
 
+<!-- Snake Animation (Opsional) -->
+<div align="center">
+  
+  ### 🐍 Contribution Snake
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Akashio28/Akashio28/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Akashio28/Akashio28/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://github.com/Akashio28/Akashio28/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<!-- Contribution Calendar Sederhana -->
+<details>
+<summary>📅 Click to see Contribution Calendar</summary>
+  
+```
+      Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Jan Feb
+Mon    ██  ██  █   ██  ██  █   ██  ██  █   ██  ██  █   ██
+Wed    █   ██  ██  █   ██  ██  █   ██  ██  █   ██  ██  █
+Fri    ██  █   ██  ██  █   ██  ██  █   ██  ██  █   ██  ██
+```
+</details>
+
+<!-- Footer -->
+<div align="center">
+  
+  ### 📌 *ositori populer*
+  
+  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/EL Sagarata)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/elezitoac)
+  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/acacioelezito04)
+  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:acacioelezito933@gmail.com)
+  
+  ![Visitor Count](https://visitcount.itsvg.in/api?id=Akashio28&icon=0&color=6)
+  
+</div>
 
 
