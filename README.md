@@ -97,4 +97,111 @@ Fri    ██  █   ██  ██  █   ██  ██  █   ██  ██ 
   
 </div>
 
+## 📈 Contribution Graph
+
+<div align="center">
+  <!-- GitHub Activity Graph - Versi Akashio28 -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akashio28&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
+  
+  <!-- Statistik Tambahan -->
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Akashio28&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashio28&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150"/>
+</div>
+
+<!-- Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=9400D3&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Acacio+Elezito;I+am+a+Software+Developer;Saya+suka+dengan+jaringan!;Full-Stack+Developer;Open+Source+Lover;Network+Enthusiast" />
+</p>
+
+<!-- Snake Animation (Opsional) -->
+<div align="center">
+  
+  ### 🐍 Contribution Snake
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Akashio28/Akashio28/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Akashio28/Akashio28/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://github.com/Akashio28/Akashio28/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<!-- Contribution Calendar -->
+<details>
+<summary>📅 Click to see Contribution Calendar</summary>
+<br>
+  
+<div align="center">
+  
+### 📅 57 contributions in the last year
+
+**Contribution settings ▼** `2026` `2025`
+
+```
+      Feb  Mar  Apr  May  Jun  Jul  Aug  Sep  Oct  Nov  Dec  Jan  Feb
+Mon    ██  ██   █   ██  ██   █   ██  ██   █   ██  ██   █   ██   █
+Wed    █   ██  ██   █   ██  ██   █   ██  ██   █   ██  ██   █    ██
+Fri    ██   █   ██  ██   █   ██  ██   █   ██  ██   █   ██  ██    █
+```
+
+**Learn how we count contributions**
+
+`Less` ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ `More`
+
+### 📅 Contribution Activity - February 2026
+
+| | Sen | Sel | Rab | Kam | Jum | Sab | Min |
+|---|-----|-----|-----|-----|-----|-----|-----|
+| **Week 1** | 2 | 0 | 3 | 1 | 4 | 0 | 1 |
+| **Week 2** | 1 | 2 | 0 | 3 | 2 | 1 | 0 |
+| **Week 3** | 3 | 1 | 2 | 0 | 4 | 2 | 1 |
+| **Week 4** | 0 | 2 | 1 | 3 | 1 | 0 | 2 |
+
+</div>
+</details>
+
+<!-- Social Links -->
+<div align="center">
+  
+  ### 🌐 Connect with me
+  
+  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/EL%20Sagarata)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/elezitoac)
+  [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/acacioelezito04)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:acacioelezito933@gmail.com)
+  
+</div>
+
+<!-- Tech Stack -->
+<div align="center">
+  
+  ### 💻 Tech Stack
+  
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+  ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+  
+</div>
+
+<!-- Footer -->
+<div align="center">
+  
+  ### 📌 *ositori populer*
+  
+  ![GitHub followers](https://img.shields.io/github/followers/Akashio28?style=social)
+  ![X (Twitter) Follow](https://img.shields.io/twitter/follow/acacioelezito04?style=social)
+  
+  <img src="https://visitcount.itsvg.in/api?id=Akashio28&icon=0&color=6" alt="Visitor Count"/>
+  
+  ---
+  
+  **Dibuat dengan ❤️ oleh Acacio Elezito**
+  
+  *Terima kasih sudah berkunjung! ⭐*
+  
+</div>
+
 
