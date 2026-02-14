@@ -58,13 +58,8 @@ I am currently pursuing my studies in Informatics Engineering at the National Un
   <img src="https://github-readme-stats.vercel.app/api?username=Akashio28&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashio28&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150"/>
 </div>
-
-<!-- Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=9400D3&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Acacio+Elezito;I+am+a+Software+Developer;Saya+suka+dengan+jaringan!;Full-Stack+Developer;Open+Source+Lover;Network+Enthusiast" />
-</p>
   
-  
+  <div align="center">
   ### 🌐 Connect with me
   
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/EL%20Sagarata)
@@ -95,8 +90,6 @@ I am currently pursuing my studies in Informatics Engineering at the National Un
   
   ![GitHub followers](https://img.shields.io/github/followers/Akashio28?style=social)
   ![X (Twitter) Follow](https://img.shields.io/twitter/follow/acacioelezito04?style=social)
-  
-  <img src="https://visitcount.itsvg.in/api?id=Akashio28&icon=0&color=6" alt="Visitor Count"/>
   
   ---
   
