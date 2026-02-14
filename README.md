@@ -17,14 +17,12 @@ I am currently pursuing my studies in Informatics Engineering at the National Un
 - Hyprland Configuration
 
 ## 📈 Contribution Graph
-## 📈 Contribution Graph
 
 <div align="center">
-  <!-- GitHub Activity Graph dengan username Akashio28 dan tema dracula -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akashio28&theme=dracula" />
-  
-  <!-- Heatmap kontribusi dengan tema purple dan mode gelap -->
-  <br><br>
+  <!-- GitHub Activity Graph - Versi Akashio28 -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akashio28&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
+
+    <br><br>
   <img src="https://gh-heat.anishroy.com/api/Akashio28/svg?theme=purple&darkMode=true" />
   
   <!-- Teks footer dengan warna tema dracula -->
@@ -32,14 +30,6 @@ I am currently pursuing my studies in Informatics Engineering at the National Un
   <b><span style="color:#FF79C6">Dibuat dengan ❤️ oleh Acacio Elezito</span></b>
   <br>
   <i><span style="color:#BD93F9">ositori populer</span></i>
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <!-- GitHub Activity Graph - Versi Akashio28 -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akashio28&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
-  
 </div>
   
   <div align="center">
