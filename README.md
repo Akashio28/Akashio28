@@ -21,8 +21,9 @@ I am currently pursuing my studies in Informatics Engineering at the National Un
 <div align="center">
   <!-- GitHub Activity Graph - React Dark (Biru Neon) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akashio28&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
-<!-- Heat Map versi alternative -->
-<img src="https://gh-heat.anishroy.com/api/Akashio28/svg?theme=github&darkMode=true&color=61dafb" />
+  <!-- Heat Map - Biru Tua biar mirip react-dark -->
+  <img src="https://gh-heat.anishroy.com/api/Akashio28/svg?theme=cyan&darkMode=true&palette=0,20,40,60,80,100" />
+</div>
   
   <div align="center">
   🌐 Connect with me
