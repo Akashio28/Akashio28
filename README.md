@@ -25,8 +25,10 @@ I am currently pursuing my studies in Informatics Engineering at the National Un
   <!-- Heat Map - Biru Tua biar mirip react-dark -->
   <img src="https://gh-heat.anishroy.com/api/Akashio28/svg?theme=blue&darkMode=true&palette=0,20,40,60,80,100" />
 </div>
-  🌐 Connect with me
+
   <div align="center">
+  🌐 Connect with me
+
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/EL%20Sagarata)
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/elezitoac)
   [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/acacioelezito04)
