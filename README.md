@@ -1,53 +1,41 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00f5ff&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Acacio+Elezito;I+am+a+Software+Developer;Network+Enthusiast;Full-Stack+Developer;Open+Source+Lover;Network+Enthusiast)](https://git.io/typing-svg)
-  🌱 I'm interested in:
-║  • Network Engineering
-║  • Artificial Intelligence
-║  • Full-Stack Development
-║  • Open Source Contribution
-## 📈 Contribution Graph
-<div align="center">
-  <!-- GitHub Activity Graph - React Dark (Biru Neon) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akashio28&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
-  
-  <!-- Heat Map - Biru Tua biar mirip react-dark -->
-  <img src="https://gh-heat.anishroy.com/api/Akashio28/svg?theme=blue&darkMode=true&palette=0,20,40,60,80,100" />
-</div>
-
-  <div align="center">
-  🌐 Connect with me
-
-  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/EL%20Sagarata)
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/elezitoac)
-  [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/acacioelezito04)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:acacioelezito933@gmail.com)
-  
-</div>
-
-<!-- Tech Stack -->
+<!-- HEADER SECTION -->
 <div align="center">
   
-  ### 💻 Tech Stack
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00f5ff&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Acacio+Elezito;I+am+a+Software+Developer;Network+Enthusiast;Full-Stack+Developer;Open+Source+Lover;AI+Enthusiast)](https://git.io/typing-svg)
   
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-  ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=Akashio28&style=for-the-badge&color=00f5ff" alt="Profile Views"/>
   
 </div>
 
-<!-- Footer -->
+<!-- ABOUT ME SECTION -->
+## 🚀 About Me
+
 <div align="center">
   
-  ### 📌 *ositori populer*
+  ```python
+  class InformaticsStudent:
+      def __init__(self):
+          self.name = "Acacio Elezito"
+          self.nickname = "El Sagarata"
+          self.university = "National University of Timor-Leste (UNTL)"
+          self.location = "Dili, Timor-Leste"
+          self.field = "Informatics Engineering"
+          self.interests = [
+              "Network Engineering",
+              "Artificial Intelligence",
+              "Full-Stack Development",
+              "Open Source Contribution"
+          ]
+          self.current_focus = {
+              "Networking": ["Configuration", "Maintenance", "Troubleshooting"],
+              "AI & ML": ["Basic Concepts", "Machine Learning Fundamentals"],
+              "Development": ["Python", "PHP", "Full-Stack"],
+              "Linux": ["Debian", "Hyprland"]
+          }
+      
+      def say_hi(self):
+          print("Thanks for visiting my profile! 👋")
   
-  ![GitHub followers](https://img.shields.io/github/followers/Akashio28?style=social)
-  ![X (Twitter) Follow](https://img.shields.io/twitter/follow/acacioelezito04?style=social)
-  
-  ---
-  
-  **El Sagarata**
-  
-  
-</div>
+  me = InformaticsStudent()
+  me.say_hi()
