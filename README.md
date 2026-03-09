@@ -11,7 +11,7 @@
 <!-- ABOUT ME SECTION -->
 ## 🚀 About Me
 
-<div align="center">
+<div align="left">
   
   ```python
   class InformaticsStudent:
