@@ -1,22 +1,37 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00f5ff&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Acacio+Elezito;I+am+a+Software+Developer;Network+Enthusiast;Full-Stack+Developer;Open+Source+Lover;Network+Enthusiast)](https://git.io/typing-svg)
 
-## About Me
 
-I am currently pursuing my studies in Informatics Engineering at the National University of Timor-Leste (UNTL). I have basic knowledge and interest in networking and artificial intelligence (AI). During my studies, I have learned and practiced network configuration, maintenance, and troubleshooting in networking systems.
+class InformaticsStudent:
+    def __init__(self):
+        self.name = "Your Name"  # You can add your name here
+        self.university = "National University of Timor-Leste (UNTL)"
+        self.location = "Dili, Timor-Leste"
+        self.field_of_study = "Informatics Engineering"
+        self.focus_areas = {
+            "Networking": ["Network Configuration", "Maintenance", "Troubleshooting"],
+            "Artificial Intelligence": ["Basic AI Concepts", "Machine Learning Fundamentals"],
+            "IT Infrastructure": ["Computer Maintenance", "IT Support"],
+            "Linux Systems": ["Debian", "Hyprland Configuration"]
+        }
 
-- 🎓 **Informatics Engineering student at UNTL**
-- 🌐 **Basic knowledge in networking and information technology**
-- 🏠 **Based in Dili, Timor-Leste**
+    def get_current_studies(self):
+        return [
+            "Network configuration and troubleshooting",
+            "Artificial intelligence fundamentals",
+            "Linux system administration (Debian)",
+            "Hyprland desktop environment configuration"
+        ]
 
----
+    def get_technical_skills(self):
+        return [
+            "Networking Basics",
+            "Computer Maintenance",
+            "IT Support",
+            "Linux (Debian)",
+            "Hyprland Configuration"
+        ]
 
-## Technical Skills
-- Networking Basics
-- Computer Maintenance
-- IT Support
-- Linux (Debian)
-- Hyprland Configuration
-
+me = InformaticsStudent()
 ## 📈 Contribution Graph
 <div align="center">
   <!-- GitHub Activity Graph - React Dark (Biru Neon) -->
