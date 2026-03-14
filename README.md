@@ -25,7 +25,7 @@
               "Network Engineering",
               "Artificial Intelligence",
               "Full-Stack Development",
-              "Open Source Contribution"
+              "Open Source lovers"
           ]
           self.current_focus = {
               "Networking": ["Configuration", "Maintenance", "Troubleshooting"],
