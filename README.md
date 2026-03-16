@@ -38,13 +38,15 @@
 ```
 
 <!-- GITHUB STATISTICS SECTION -->
+<div align="center">
 📊 GitHub Statistics
+    
+</div>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Akashio28&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub Stats" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akashio28&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashio28&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="40%"/></div>
 
 <!-- GITHUB TROPHIES SECTION -->
-📈 Contribution Graph
 <div align="center"> 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akashio28&theme=tokyonight&hide_border=true&area=true&bg_color=0D1117&color=00f5ff&line=00f5ff&point=FFFFFF" alt="Contribution Graph" width="100%"/> 
   <!-- Contribution Heatmap --> 
