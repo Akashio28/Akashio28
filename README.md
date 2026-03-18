@@ -50,3 +50,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akashio28&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area_color=00FFFF" alt="Contribution Graph" width="50%"/>
 </div>
 
+<img src="https://gh-heat.anishroy.com/api/Akashio28/svg?theme=blue&darkMode=true&palette=0D1117,003333,006666,009999,00CCCC,00FFFF" alt="Contribution Heatmap" width="100%"/>
