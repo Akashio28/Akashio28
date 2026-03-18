@@ -36,19 +36,22 @@
   me = InformaticsStudent()
   me.say_hi()
 ```
-<!-- GITHUB STATISTICS SECTION -->
 <div align="center">
 📊 GitHub Statistics
 </div>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Akashio28&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=00FFFF&title_color=00FFFF&count_private=true" alt="GitHub Stats" width="48%"/> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akashio28&theme=dark&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=00FFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=6B7280" alt="GitHub Streak" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashio28&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=00FFFF" alt="Top Languages" width="40%"/>
+  <!-- Baris pertama: Stats dan Streak -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Akashio28&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=00FFFF&title_color=00FFFF&count_private=true" alt="GitHub Stats" width="48%"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akashio28&theme=dark&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=00FFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=6B7280" alt="GitHub Streak" width="48%"/>
+  
+  <!-- Baris kedua: Most Languages (kiri) dan Contribution Graph (kanan) -->
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashio28&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=00FFFF" alt="Top Languages" width="40%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akashio28&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area_color=00FFFF" alt="Contribution Graph" width="50%"/>
 </div>
 
 <!-- GITHUB TROPHIES SECTION -->
 <div align="center"> 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akashio28&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area_color=00FFFF" alt="Contribution Graph" width="100%"/> 
-  <!-- Contribution Heatmap --> 
-  <img src="https://gh-heat.anishroy.com/api/Akashio28/svg?theme=blue&darkMode=true&palette=0D1117,003333,006666,009999,00CCCC,00FFFF" alt="Contribution Heatmap" width="100%"/>
+  <img src="https://gh-heat.ishn.tech/api/Akashio28/svg?theme=blue&darkMode=true&palette=0D1117,003333,006666,009999,00CCCC,00FFFF" alt="Contribution Heatmap" width="100%"/>
 </div>
