@@ -37,17 +37,21 @@
   me.say_hi()
 ```
 <div align="center">
-📊 GitHub Statistics
-</div>
-<div align="center">
-  <!-- Baris pertama: Stats dan Streak -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Akashio28&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=00FFFF&title_color=00FFFF&count_private=true" alt="GitHub Stats" width="48%"/> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akashio28&theme=dark&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=00FFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=6B7280" alt="GitHub Streak" width="48%"/>
-  
-  <!-- Baris kedua: Most Languages (kiri) dan Contribution Graph (kanan) -->
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashio28&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=00FFFF" alt="Top Languages" width="40%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akashio28&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area_color=00FFFF" alt="Contribution Graph" width="50%"/>
+  <h2>📊 GitHub Statistics</h2>
 </div>
 
-<img src="https://gh-heat.anishroy.com/api/Akashio28/svg?theme=blue&darkMode=true&palette=0D1117,003333,006666,009999,00CCCC,00FFFF" alt="Contribution Heatmap" width="100%"/>
+<div align="center">
+  <!-- Stats Card - Pakai layanan alternatif -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akashio28&theme=dark&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=00FFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=6B7280" alt="GitHub Streak" width="48%"/>
+  
+  <!-- Stats Ringkas dari layanan lain -->
+  <img src="https://badges.strrl.dev/contributions/all/Akashio28?style=flat-square&color=cyan" alt="Total Contributions"/>
+</div>
+
+<br>
+
+<div align="center">
+  <!-- Top Languages - alternatif -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akashio28&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area_color=00FFFF" alt="Contribution Graph" width="100%"/>
+</div>
+
