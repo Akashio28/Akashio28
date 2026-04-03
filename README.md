@@ -37,7 +37,7 @@
   me.say_hi()
 ```
 <div align="center">
-  <h2>📊 GitHub Statistics</h2>
+  <h4>📊GitHub Statistics</h4>
 </div>
 
 <div align="center">
