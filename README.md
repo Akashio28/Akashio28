@@ -21,7 +21,7 @@
           self.location = "Dili, Timor-Leste"
           self.field = "Informatics Engineering"
           self.interests = [
-              "Network Engineering",
+              "Network Basic",
               "Full-Stack Development",
               "Open Source lover"
           ]
