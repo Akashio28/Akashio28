@@ -22,12 +22,12 @@
           self.field = "Informatics Engineering"
           self.interests = [
               "Network Basic",
-           
+              "backend developer"
               "Open Source lover"
           ]
           self.current_focus = {
               "Networking": ["Configuration", "Maintenance", "Troubleshooting"],
-              "Development": ["Python", "PHP", "Full-Stack"],
+              "Development": ["Python", "PHP", "Backend Developer"],
               "Linux": ["Debian", "Hyprland"]
           }      
       def say_hi(self):
