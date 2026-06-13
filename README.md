@@ -39,19 +39,11 @@ print(me)
 ---
 
 ## 📊 GitHub Statistics
-
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akashio28&theme=dark&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=00FFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=6B7280" alt="GitHub Streak" width="48%"/>
-
-<img src="https://badges.strrl.dev/contributions/all/Akashio28?style=flat-square&color=cyan" alt="Total Contributions"/>
-
+<img src="https://raw.githubusercontent.com/Akashio28/Akashio28/main/assets/stats.svg" alt="GitHub Stats" width="48%"/>
+<img src="https://raw.githubusercontent.com/Akashio28/Akashio28/main/assets/streak.svg" alt="GitHub Streak" width="48%"/>
 </div>
-
 <br/>
-
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akashio28&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area_color=00FFFF" alt="Contribution Graph" width="100%"/>
-
+<img src="https://raw.githubusercontent.com/Akashio28/Akashio28/main/assets/activity-graph.svg" alt="Contribution Graph" width="100%"/>
 </div>
