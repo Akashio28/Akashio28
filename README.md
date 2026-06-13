@@ -24,13 +24,6 @@ class InformaticsStudent:
         self.os          = "Debian + Hyprland 🐧"
         self.motto       = "Silent Coder. Loud Results."
 
-    def __repr__(self):
-        return (
-            f"<{self.__class__.__name__} | "
-            f"{self.field} | "
-            f'"{self.motto}">'
-        )
-
 me = InformaticsStudent()
 print(me)
 # <InformaticsStudent | Informatics Engineering | "Silent Coder. Loud Results.">
