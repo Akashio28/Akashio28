@@ -7,30 +7,6 @@
 
 </div>
 
----
-
-## 🚀 About Me
-
-```python
-class InformaticsStudent:
-    def __init__(self):
-        self.name        = "Acacio Elezito"
-        self.university  = "National University of Timor-Leste (UNTL)"
-        self.location    = "Dili, Timor-Leste 🌏"
-        self.field       = "Informatics Engineering"
-        self.interests   = ["Network Basic", "Backend Developer", "Open Source Lover 🐧"]
-        self.focus       = ["UI/UX Design", "Backend Developer", "Web Development"]
-        self.stack       = ["Python", "PHP", "Backend Developer"]
-        self.os          = "Debian + Hyprland 🐧"
-        self.motto       = "Silent Coder. Loud Results."
-
-me = InformaticsStudent()
-print(me)
-InformaticsStudent |"Informatics Engineering"| "Silent Coder. Loud Results".>
-```
-
----
-
 ## 📊 GitHub Statistics
 <div align="center">
 <img src="https://raw.githubusercontent.com/Akashio28/Akashio28/main/assets/stats.svg" alt="GitHub Stats" width="48%"/>
